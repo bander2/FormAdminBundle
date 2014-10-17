@@ -1,0 +1,3 @@
+bander2_form_admin_homepage:
+    path:     /hello/{name}
+    defaults: { _controller: Bander2FormAdminBundle:Default:index }
